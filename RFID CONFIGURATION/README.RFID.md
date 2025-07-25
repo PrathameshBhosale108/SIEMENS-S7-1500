@@ -25,6 +25,18 @@ Your setup should look similar to the image below:
 
 <img width="1202" height="410" alt="Screenshot 2025-07-25 103832" src="https://github.com/user-attachments/assets/7520dd17-9dfb-4475-a5f2-9b82431e1fd6" />
 
+## 🌐 Step 3: Assign Ethernet IP Address to RFID Module
+
+Click on the RFID module to open its Device Configuration.
+
+Go to the Ethernet Addresses tab.
+
+Assign the following IP Address:
+//192.168.8.63
+<img width="1207" height="917" alt="image" src="https://github.com/user-attachments/assets/964cab62-68ce-4926-a6a9-d5d955ae2e67" />
+
+
+
 
 
 
