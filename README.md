@@ -28,7 +28,6 @@
 
 
 
-RFID and PLC Configuration
 
 
 
